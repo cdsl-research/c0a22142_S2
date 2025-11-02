@@ -46,4 +46,6 @@ app.pyの実行後に保存されたcsvファイルは以下のようになっ�
 attendance_20251102.csvの内容
 <img width="886" height="52" alt="image" src="https://github.com/user-attachments/assets/761c0d96-622e-4e46-9677-8a6e84da46a1" />
 
+画像の通りに入力した名前と時間が記録されていれば成功である．
+
 
