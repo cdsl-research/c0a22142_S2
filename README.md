@@ -41,9 +41,17 @@ Webページの表示
 <img width="902" height="548" alt="image" src="https://github.com/user-attachments/assets/64f512c2-6ad8-4e92-937e-684efd3c39ba" />
 
 # おわりに
+実際に出席の処理をした場合のそれぞれの結果は以下の通りである．
+
+コンソール画面
+<img width="916" height="320" alt="image" src="https://github.com/user-attachments/assets/930e14a8-6c17-4757-a5b2-7a0ce2106316" />
+
+Webサイト
+<img width="803" height="476" alt="image" src="https://github.com/user-attachments/assets/1c03a85c-9346-44d3-aceb-329d8d79cb4e" />
+
 app.pyの実行後に保存されたcsvファイルは以下のようになっている．
 
-attendance_20251102.csvの内容
+attendance_20251102.csv
 <img width="886" height="52" alt="image" src="https://github.com/user-attachments/assets/761c0d96-622e-4e46-9677-8a6e84da46a1" />
 
 画像の通りに入力した名前と時間が記録されていれば成功である．
