@@ -4,7 +4,9 @@
 
 ## 必要なパッケージ
 Flaskが必要
+
 venvによる仮想環境を構築してからpip install flaskを実行してインストール可能
+
 venvの仮想環境構築方法はこちらを参照：https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e
 
 ## 実行結果
