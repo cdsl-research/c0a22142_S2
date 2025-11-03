@@ -13,13 +13,25 @@ Webサイトにて名前を入力して出席をすることで記録をとる�
 ## app.py
 Webサイトを運用し，ログファイルを生成するプログラムである．
 
+HTMLのコードも記述してあり，このプログラム1つで運用が可能である．
+
+Webサイトでは，名前の入力欄を設けており，そこから出席する人の名前を入力し出席記録をとる．
+
+出席記録は日ごとにCSVファイルに記録される．
+
 # 使用言語
 使用言語はPythonでバージョンは3.12.3である．
+
+Pythonをインストールするには，Python.orgからインストーラーをダウンロードし実行する．
+
+インストーラーダウンロード先：https://www.python.org/
 
 # 必要なパッケージ
 Flaskが必要
 
-venvによる仮想環境を構築してからpip install flaskを実行してインストール可能
+venvによる仮想環境を構築してから下記のようにpip install flaskを実行してインストール可能
+<img width="943" height="642" alt="image" src="https://github.com/user-attachments/assets/f93faccf-f16e-4755-897e-29d4606bdf31" />
+
 
 venvの仮想環境構築方法はこちらを参照：https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e
 
